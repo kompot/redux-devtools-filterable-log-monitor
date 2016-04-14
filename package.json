@@ -121,7 +121,7 @@
   "dependencies": {
     "lodash.debounce": "^3.1.1",
     "react-highlighter": "kompot/react-highlighter",
-    "react-json-tree": "^0.5.1",
+    "react-json-tree": "kompot/react-json-tree",
     "react-responsive": "^1.1.2",
     "redux-devtools-themes": "^1.0.0"
   }
