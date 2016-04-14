@@ -120,8 +120,8 @@
   },
   "dependencies": {
     "lodash.debounce": "^3.1.1",
-    "react-highlighter": "kompot/react-highlighter",
-    "react-json-tree": "kompot/react-json-tree",
+    "react-highlighter": "git://github.com/kompot/react-highlighter#70f621b3461136b61321e8044021916ff7fe1851",
+    "react-json-tree": "git://github.com/kompot/react-json-tree#cef50107ef66e4763c8c5abedac063d2efae303c",
     "react-responsive": "^1.1.2",
     "redux-devtools-themes": "^1.0.0"
   }
